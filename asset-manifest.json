@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/barcode-demo/static/css/main.a617e044.chunk.css",
+    "main.js": "/barcode-demo/static/js/main.8a71e2a0.chunk.js",
+    "main.js.map": "/barcode-demo/static/js/main.8a71e2a0.chunk.js.map",
+    "runtime-main.js": "/barcode-demo/static/js/runtime-main.c3464e7d.js",
+    "runtime-main.js.map": "/barcode-demo/static/js/runtime-main.c3464e7d.js.map",
+    "static/js/2.202af81b.chunk.js": "/barcode-demo/static/js/2.202af81b.chunk.js",
+    "static/js/2.202af81b.chunk.js.map": "/barcode-demo/static/js/2.202af81b.chunk.js.map",
+    "static/js/3.d92b496d.chunk.js": "/barcode-demo/static/js/3.d92b496d.chunk.js",
+    "static/js/3.d92b496d.chunk.js.map": "/barcode-demo/static/js/3.d92b496d.chunk.js.map",
+    "static/js/4.ee7a185b.chunk.js": "/barcode-demo/static/js/4.ee7a185b.chunk.js",
+    "static/js/4.ee7a185b.chunk.js.map": "/barcode-demo/static/js/4.ee7a185b.chunk.js.map",
+    "index.html": "/barcode-demo/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/barcode-demo/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.202af81b.chunk.js.LICENSE.txt": "/barcode-demo/static/js/2.202af81b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/barcode-demo/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3464e7d.js",
+    "static/js/2.202af81b.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.8a71e2a0.chunk.js"
+  ]
+}
